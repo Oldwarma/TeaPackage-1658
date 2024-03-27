@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-main",
+  "name": "tea2011",
   "version": "1.0.0",
   "description": "This is my first NPM package created for learning and explanation purposes.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oldwarma/TeaPackage-2.git"
+    "url": "https://github.com/Oldwarma/teapackage-1740.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Oldwarma/TeaPackage-2/issues"
+    "url": "https://github.com/Oldwarma/teapackage-1740"
   },
-  "homepage": "https://github.com/Oldwarma/TeaPackage-2#readme"
+  "homepage": "https://github.com/Oldwarma/teapackage-1740#readme"
 }
